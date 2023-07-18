@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: lightblue; */
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(163, 181, 216);
+  }
+  
+  h1, h2 {
+    margin: 0;
+    background-color: lightskyblue;
+    text-align: center;
+  }
+  
+  #about {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(212, 201, 235);
+  }
+  
+  #about img {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    
+  }
+  
+  #skills, #projects, #resume, #contact {
+    padding: 20pxS
+    
+  }
+  
+  .project {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(206, 183, 228);
+  }
+  
+  .project img {
+    width: 250px;
+    height: 300px;
+    
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: cornflowerblue;
+  }
